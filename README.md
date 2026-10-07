@@ -1,5 +1,7 @@
 # Sistema Simples de Autenticação de Usuários
-
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ---
 
 Este é um projeto simples de sistema de autenticação e controle de acesso desenvolvido em **PHP** integrado com **MySQL**. O sistema permite que um usuário realize login através de formulário web, valida as credenciais em um banco de dados e gerencia a sessão do usuário (permitindo ou bloqueando o acesso a páginas restritas e possibilitando a saída do sistema).
@@ -27,9 +29,9 @@ O processo de autenticação e controle de acesso segue o fluxo estruturado abai
 
 ## Tecnologias Utilizadas
 
-* **PHP:** Linguagem de programação para manipulação de sessões, redirecionamentos e validação lógica.
-* **MySQL / mysqli:** Banco de dados relacional e driver de conexão do PHP.
-* **HTML5:** Estruturação dos formulários e interfaces de usuário.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,php,mysql" alt="Minhas Habilidades" />
+</p>
 
 ## Estrutura do Projeto
 
